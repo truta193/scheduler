@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>side-bg.png</file>
+        <file>courses.png</file>
+        <file>schedule.png</file>
+        <file>settings.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>InputMono-Regular.ttf</file>
+    </qresource>
+    <qresource prefix="/xml">
+        <file>test.xml</file>
+    </qresource>
+</RCC>
