@@ -1,2 +1,6 @@
 # scheduler
-Qt application for scheduling. Currently in very early development but actively worked on!
+Qt application for scheduling.
+
+Abandoned & archived. Please refer to https://github.com/truta193/Proteus. 
+
+A desktop version replacing this is planned.
